@@ -465,4 +465,4 @@ if __name__ == "__main__":
         remove_mon_iface(mon_iface)
         os.system('service network-manager restart')
         print '\n['+R+'!'+W+'] Closing'
-        sys.exit(0)
+        sys.exit(0).
